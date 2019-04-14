@@ -6,7 +6,7 @@
 
     <groupId>com.xzz</groupId>
     <artifactId>spark</artifactId>
-    <packaging>pom</packaging>
+   
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spark_day01</module>
